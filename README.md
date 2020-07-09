@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits"-->
+<!--img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits"-->
 
 <!--
 **m4rr/m4rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
